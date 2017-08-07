@@ -8,7 +8,7 @@ KCS is a service delivery methodology that focuses on knowledge as a key asset o
  
 ### In a nutshell, KCS strives to:
 
-1.Integrate the reuse, improvement, and (if it doesn’t exist) creation of knowledge into the problem solving process
+1. Integrate the reuse, improvement, and (if it doesn’t exist) creation of knowledge into the problem solving process
 
 2. Evolve content based on demand and usage
 
