@@ -1,6 +1,6 @@
 ## Knowledge Centered Service (KCS)
 
-KCS is a service delivery methodology that focuses on knowledge as a key asset of the organization implementing it. Development began in 1992 by the Consortium for Service Innovation, a non-profit alliance of support organizations.
+KCS is a service delivery methodology that focuses on knowledge as a key asset of the organization implementing it. 
  
  ![KCS-1](./img/KCS-solve_evolve.jpg)
  
