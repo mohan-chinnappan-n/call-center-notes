@@ -16,6 +16,7 @@ KCS is a service delivery methodology that focuses on knowledge as a key asset o
 
 4. Reward learning, collaboration, sharing, and improving
 
+----------------------
 
 ### Why KCS?
 
