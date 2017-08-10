@@ -5,7 +5,6 @@ ATT: Average talk-time
 ACW: Average After-Call-Work
 
 1. **Serice Level** (SL):  Percentage of calls (X) answered in Y time  
-		- usually measured in 30 min)	
 		- reported: daily, weekly
 		
 		applies to :
@@ -18,6 +17,7 @@ ACW: Average After-Call-Work
 	
 
 2.  **Quality Monitoring** (QM) Score: Numerical score card : Agent/Rep performance 
+		
 		- Feedback to be provided to the agent/rep ASAP about QM
 		
 3.  **Customer Satisfaction** (CSAT): Measure of overall satisfaction of the interaction or service by survey
@@ -26,7 +26,7 @@ ACW: Average After-Call-Work
 		- common methods: Automated servey right after the call, telephone survey, company website, Email and Snail Mail 
 			
 
-4. **Adherence**:  scheduled vs available: 
+4. **Adherence**:  scheduled vs available:  (commonly: around 90%)
 ```
 total_time_agent_available_for_call_work / total_time_scheduled
 ```
@@ -41,7 +41,7 @@ total_time_agent_available_for_call_work / total_time_scheduled
 8. Forecast vs Actuals (FCST)
 	- useful for resource planning 
 9. Cost per Contact (CPC):
-  - useful for cost monitoring
+   - useful for cost monitoring
 
 10. **Blocking Rate**: Percent of calls could not get entered in to the system, reasons: Busy, messages, forced-disconnects
 
@@ -58,3 +58,5 @@ total_time_agent_available_for_call_work / total_time_scheduled
 
 ### References:
 1. [Call center metrics](http://cdn.ttgtmedia.com/searchCRM/downloads/metrics-PDF_revised.pdf)	
+2. [The Five Best Metrics for Quality Management in the Call Center
+](https://www.tcnp3.com/home/call-centers/the-five-best-metrics-for-quality-management-in-the-call-center/)
