@@ -66,6 +66,7 @@ Call centers can have divided labor between inbound and outbound agents or **ble
 ### 360 degree view of the customer
 
 ![360 degree view](https://secure.sfdcstatic.com/common/assets/images/360-Thumb.jpg)
+
 Imagine you’ve just called a support line, and the agent
 on the other end already knew who you were, knew
 the products you owned, and knew all of your previous interactions with the company — 
