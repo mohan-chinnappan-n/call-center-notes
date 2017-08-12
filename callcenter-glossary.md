@@ -63,4 +63,17 @@ A contact center still uses voice communication, most likely VoIP. In addition t
 Call centers can have divided labor between inbound and outbound agents or **blended agents** that handle both types of calling. Contact centers feature agents that can handle **all** its forms of communication.
 
 
+### 360 degree view of the customer
+
+Imagine you’ve just called a support line, and the agent
+on the other end already knew who you were, knew
+the products you owned, and knew all of your previous interactions with the company — 
+regardless of the channel on which you contacted them. 
+What if the agent was able to quickly deliver the information you needed to resolve your issue, no painful back-and-forth necessary? This can become the reality for your customers if your service agents have the right tools and built-in intelligence.
+
+Your customer service representatives are so much more than support agents — they’re your brand ambassadors. Whether it’s over the phone, in person, on the web, through email, or on social media, your customers expect a service experience that is smarter, more personalized, and requires minimal e ort. Their satisfaction — and whether they take their business to your competitor — depends on it.
+
+Continue the reading [360 view of the customer](https://secure.sfdcstatic.com/assets/pdf/misc/360-Degree_View_Of_Your_Customer.pdf)
+
+
 [Ref](http://whatis.techtarget.com/reference/Call-Center-Terms-Glossary)
