@@ -11,4 +11,9 @@ The American Customer Satisfaction Index found that response rates for:
 [Ref](http://customerthink.com/customer-satisfaction-survey-response-rates-update/)
 
 
+#### What is The American Customer Satisfaction Index (ACSI)?
+
+ACSI  is an economic indicator that measures the satisfaction of consumers across the U.S. economy. It is produced by the American Customer Satisfaction Index (ACSI LLC) based in Ann Arbor, Michigan.
+
+[Ref](http://www.theacsi.org/)
 
