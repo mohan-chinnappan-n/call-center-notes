@@ -6,6 +6,10 @@
 | Medium      | Self-Service, P2P service, chat-bot | |
 | High      | Phone | |
 
+
+**Ref:**
+
+
 [Shaping the next generation of
 customer service with communities](https://www.salesforce.com/assets/pdf/misc/shaping-customer-service-with-community-cloud.pdf)
 
