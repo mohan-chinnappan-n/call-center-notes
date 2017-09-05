@@ -10,7 +10,7 @@
 customer service with communities](https://www.salesforce.com/assets/pdf/misc/shaping-customer-service-with-community-cloud.pdf)
 
 
-![Channels](img/channels.png )
+![Channels](img/channels2.png )
 #### Omni vs multi channel
 
 ![Omni vs multi](https://thedma.org/wp-content/uploads/omni-channel-blog.png)
