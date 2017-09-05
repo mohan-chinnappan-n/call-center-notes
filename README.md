@@ -8,4 +8,5 @@
 
 [CSAT survey](CSAT.md)
 
+[Self-Service](self-service.md)
 
