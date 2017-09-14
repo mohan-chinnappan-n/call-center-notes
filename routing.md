@@ -4,7 +4,7 @@
 
 Skills-Based Routing: skills-based routing routes the calls to the agent with the most applicable skill set, which improves efficiency and customer experience. 
 
-![routing](https://starpoundtech.com/wp-content/uploads/2015/05/whiteboard-ACD.png)
+![routing](img/routing-1.png)
 
 Location-Based Routing: location-based routing routes incoming calls based on the customer’s location. Location-based routing can utilize caller id, GPS positioning, and signal triangulation to determine the location of the customer, or service provider, which is then accordingly routed. Location-based routing allows for varying degrees of complexity to be implemented with this type of routing, which makes it a flexible routing choice.
 
