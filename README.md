@@ -14,4 +14,5 @@
 
 [Peer-to-Peer Service](p2pcs.md)
 
+[Routing options](routing.md)
 
