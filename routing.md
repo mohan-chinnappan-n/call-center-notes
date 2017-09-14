@@ -6,6 +6,9 @@ Skills-Based Routing: skills-based routing routes the calls to the agent with th
 
 ![routing](img/routing-1.png)
 
+**Other Routings:**
+
+
 Location-Based Routing: location-based routing routes incoming calls based on the customer’s location. Location-based routing can utilize caller id, GPS positioning, and signal triangulation to determine the location of the customer, or service provider, which is then accordingly routed. Location-based routing allows for varying degrees of complexity to be implemented with this type of routing, which makes it a flexible routing choice.
 
 Service-Level Routing & Dynamic-Based Routing: service-level routing is a type of dynamic-based routing. Dynamic-based routing uses skills-based routing but also implements expected and predicted wait times into its platform to increase customer satisfaction and service level thresholds. Service-level routing, implemented with dynamic-based routing, utilizes reserve agents when queue times reach sub-optimal levels to preserve the service level.
