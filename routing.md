@@ -30,6 +30,8 @@ Outbound Routing:
  outbound routing focuses on a different set of metrics. Instead of utilizing traditional metrics such as average call length or average handling time, outbound routing uses metrics like Net Promoter Score to track how many of its customers recommend the company’s services to others. Outbound routing focuses on increasing customer recommendations through techniques such as text updates and outbound calls to inform customers of their account statuses.
 
 
+--------
+
 #### Genesys Routing docs
 
 1. [Chapter 2 in  Routing Application Configuration Guide covers Skill based rouring](img/genesys-routing.pdf)
@@ -40,7 +42,7 @@ Outbound Routing:
 
 4. [Add skills-based routing for the Salesforce Object Routing Connector](https://help.genesys.com/cic/mergedprojects/wh_sfcon/desktop/add_skills-based_routing_for_the_salesforce_object_routing_connector.htm)
 
-
+---------
 
 
 #### Resources
