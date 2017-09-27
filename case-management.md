@@ -1,12 +1,12 @@
-## How to use case Case Assignment Rules in Salesforce
+### How to use  Case Assignment Rules in Salesforce
 
 
-### Demo showing how to create a **Case Assignment Rule** and **Assign using active assignment rules** 
+#### Demo showing how to create a **Case Assignment Rule** and **Assign using active assignment rules** 
 
 ![Case Assignment Rule](img/case-assignment.gif)
 
 
-### Resources
+#### Resources
 
 1. [Trailhead on Automate Case Management ](https://trailhead.salesforce.com/en/modules/service_basics/units/service_basics_automate_case_management)
 2. [Permissions need for Managing Assignment Rules](https://help.salesforce.com/articleView?id=customize_leadrules.htm&type=0) 
