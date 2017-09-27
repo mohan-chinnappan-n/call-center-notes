@@ -1,13 +1,13 @@
 ### How to use  Case Assignment Rules in Salesforce
 
 
-#### Demo showing how to create a **Case Assignment Rule** and **Assign using active assignment rules** 
+#### Demo #1:  showing how to create a **Case Assignment Rule** and **Assign using active assignment rules** 
 
 ![Case Assignment Rule](img/case-assignment.gif)
 
 
 
-### Demo show how to 'set Assign using active assignment rules' by default using Page Layout Properties:
+### Demo #2:  showing how to 'set Assign using active assignment rules' by default using Page Layout Properties:
 
 ![Case Assignment Rule](img/case-assignment-2.gif)
 
