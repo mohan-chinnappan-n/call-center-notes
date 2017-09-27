@@ -7,7 +7,7 @@
 
 
 
-### Demo #2:  showing how to 'set Assign using active assignment rules' by default using Page Layout Properties:
+#### Demo #2:  showing how to 'set Assign using active assignment rules' by default using Page Layout Properties:
 
 ![Case Assignment Rule](img/case-assignment-2.gif)
 
