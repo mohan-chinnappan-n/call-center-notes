@@ -6,6 +6,14 @@
 ![Case Assignment Rule](img/case-assignment.gif)
 
 
+
+### Demo show how to 'set Assign using active assignment rules' by default using Page Layout Properties:
+
+![Case Assignment Rule](img/case-assignment-2.gif)
+
+
+
+
 #### Resources
 
 1. [Trailhead on Automate Case Management ](https://trailhead.salesforce.com/en/modules/service_basics/units/service_basics_automate_case_management)
