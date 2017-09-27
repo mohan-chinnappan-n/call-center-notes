@@ -16,3 +16,6 @@
 
 [Routing options](routing.md)
 
+[Case Management](case-management.md)
+
+
